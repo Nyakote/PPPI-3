@@ -4,7 +4,7 @@ namespace Advanced_test
 {
     public class Calculator_Advanced
     {
-        public double Pow(int a, int b) { for (int i = 0; i < b;) { a *= i; } return a; }
+        public double Pow(int a, int b) { int x = 1; for (int i = 0; i < b;) { x *= a; } return a; }
         public double NDS(int a, int b)
         {
             while (b != 0)
