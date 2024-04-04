@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumUP_test", "SumUP_test\Su
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubDWN_test", "SubDWN_test\SubDWN_test.csproj", "{E984CB49-F31A-433A-A55A-F6D96A698CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUltUp_test", "MUltUp_test\MUltUp_test.csproj", "{23F1BF71-5746-426E-A4D2-8A0C1ACF8A52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MUltUp_test", "MUltUp_test\MUltUp_test.csproj", "{23F1BF71-5746-426E-A4D2-8A0C1ACF8A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIvi_Test", "DIvi_Test\DIvi_Test.csproj", "{52868DEF-8002-44EE-AE7B-ADA1C997BDA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{23F1BF71-5746-426E-A4D2-8A0C1ACF8A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F1BF71-5746-426E-A4D2-8A0C1ACF8A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F1BF71-5746-426E-A4D2-8A0C1ACF8A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52868DEF-8002-44EE-AE7B-ADA1C997BDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52868DEF-8002-44EE-AE7B-ADA1C997BDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52868DEF-8002-44EE-AE7B-ADA1C997BDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52868DEF-8002-44EE-AE7B-ADA1C997BDA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
