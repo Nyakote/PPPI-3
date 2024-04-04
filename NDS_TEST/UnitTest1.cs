@@ -1,5 +1,5 @@
 using Advanced_test;
-namespace Pow_test
+namespace NDS_TEST
 {
     public class UnitTest1
     {
@@ -7,9 +7,7 @@ namespace Pow_test
         public void Test1()
         {
             var calc = new Calculator_Advanced();
-            if (calc.Pow(2,2)!=4) { throw new Exception(); }
-
-
+            if (calc.NDS(2, 2){ throw new Exception();}
         }
     }
 }

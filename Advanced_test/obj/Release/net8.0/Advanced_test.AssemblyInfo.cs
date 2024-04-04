@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Advanced_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+984c4d276a18d4cf07c87910f2acbec64ca7b31d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce61b90707b6e34ec8be3ad2f293521b1da4a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("Advanced_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Advanced_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
