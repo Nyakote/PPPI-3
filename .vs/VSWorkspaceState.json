@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Calcultor-domain",
+    "\\SubDWN_test",
+    "\\SumUP_test"
   ],
-  "SelectedNode": "\\TextFile1.txt",
+  "SelectedNode": "\\Calcultor-domain.sln",
   "PreviewInSolutionExplorer": false
 }
