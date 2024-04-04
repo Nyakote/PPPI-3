@@ -5,6 +5,8 @@
         public int SumUP(int a, int b) {  return a + b; }
     
         public int SubDWN(int a , int b) { return a - b;}
+
+        public int MultUP(int a , int b) { return a * b;}
     }
 
 }

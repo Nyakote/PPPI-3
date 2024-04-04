@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubDWN_test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2da3daba086ef795fa0cf7ea196cf79c52fdac9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46cb68c552c6cc42b1f2f3294112a07955c6e948")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubDWN_test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubDWN_test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
