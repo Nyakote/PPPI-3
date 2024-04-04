@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Calcultor-domain",
+    "\\SubDWN_test",
+    "\\SumUP_test"
   ],
+  "SelectedNode": "\\SubDWN_test\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
