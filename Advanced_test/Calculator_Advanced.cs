@@ -15,6 +15,9 @@ namespace Advanced_test
             }
             return a;
         }
-
+        public double NSK(int a, int b)
+        {
+            return (a * b) / NDS(a, b);
+        }
     }
 }

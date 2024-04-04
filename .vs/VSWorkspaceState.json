@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Advanced_test",
+    "\\NDS_TEST",
     "\\Pow_test"
   ],
-  "SelectedNode": "\\Pow_test\\UnitTest1.cs",
+  "SelectedNode": "\\NDS_TEST\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
