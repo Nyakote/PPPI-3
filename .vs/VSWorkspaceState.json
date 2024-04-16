@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Advanced_test",
+    "\\Pow_test"
   ],
+  "SelectedNode": "\\Pow_test\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }

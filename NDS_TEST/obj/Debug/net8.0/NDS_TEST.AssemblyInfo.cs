@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NDS_TEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a00abd9be2394c669471bf5273abd48c6138ced")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce61b90707b6e34ec8be3ad2f293521b1da4a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("NDS_TEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NDS_TEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
