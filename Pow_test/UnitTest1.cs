@@ -8,6 +8,8 @@ namespace Pow_test
         {
             var calc = new Calculator_Advanced();
             if (calc.Pow(2,2)!=4) { throw new Exception(); }
+            //adding something to commit
+
 
 
         }

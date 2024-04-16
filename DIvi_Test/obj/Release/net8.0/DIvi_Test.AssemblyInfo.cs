@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIvi_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b4413395421210c80413cf78c0ec247505976cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62e4cdcad07a26f66531dcbd91cf4773890568dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIvi_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIvi_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
